@@ -28,4 +28,8 @@ A veces, sin embargo, no tendrás ni idea:
 
 2. **Anota la situación en un diario**, las opciones que tienes y las conjeturas sobre el cambio. Deja un tag o comentario en el código. Más adelante, cuando este código tenga que cambiar, podrás mirar el diario y obtener tu feedback. 
 
+## Desafíos
 
+* Piensa en un principio de diseño que uses, ¿Tiene la intención de hacer que las cosas sean fáciles de cambiar?
+* Piense también en lenguajes y paradigmas de programación (OO, FP, Reactive, etc.). ¿Alguno tiene grandes aspectos positivos o negativos cuando se trata de ayudarlo a escribir código ETC? ¿Alguno tiene ambos? Al codificar, ¿qué puede hacer para eliminar los aspectos negativos y acentuar los positivos?
+* Muchos editores tienen soporte (ya sea integrado o mediante extensiones) para ejecutar comandos cuando guarda un archivo. Utilícelo como una señal para pensar en el código que acaba de escribir. ¿Es fácil de cambiar?
