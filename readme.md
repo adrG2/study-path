@@ -24,6 +24,8 @@ Enjoy!
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - Watch [Core Design Principles for Software Developers, part 1 (Venkat Subramaniam, USA)](https://www.youtube.com/watch?v=1n8RZ5aBXGo)
 - Watch [Core Design Principles for Software Developers, part 2 (Venkat Subramaniam, USA)](https://www.youtube.com/watch?v=RO7MVbUspTc)
+- Watch [Beyond Software Craftsmanship by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE)
+- Watch [Twelve Ways to Make Code Suck Less by Venkat Subramaniam](https://www.youtube.com/watch?v=nVZE53IYi4w)
 - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   - [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   - [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
