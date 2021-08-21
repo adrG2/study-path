@@ -22,6 +22,7 @@ Enjoy!
 ## Session 1: SOLID and Clean Code
 
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
+- [Summary](http://alex-ii.github.io/notes/2017/12/09/core_design_principles.html)
 - Watch [Core Design Principles for Software Developers, part 1 (Venkat Subramaniam, USA)](https://www.youtube.com/watch?v=1n8RZ5aBXGo)
 - Watch [Core Design Principles for Software Developers, part 2 (Venkat Subramaniam, USA)](https://www.youtube.com/watch?v=RO7MVbUspTc)
 - Watch [Beyond Software Craftsmanship by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE)
